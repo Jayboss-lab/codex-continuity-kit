@@ -44,6 +44,14 @@ These are out of scope for this repo. They might be their own repos, or they mig
 
 ---
 
+## Decisions log
+
+| Date | Decision | Reason |
+|---|---|---|
+| 2026-06-09 | Keep V1 documentation-only | Keeps the kit simple, low-risk, and easy to adopt without installing tools |
+| 2026-06-09 | Focus on project continuity, not agent orchestration | Keeps the repo distinct from protocol/framework-style agent handoff tools |
+| 2026-06-09 | Use examples before adding automation | Lets the templates prove their value before introducing executable tooling |
+
 ## How to influence the roadmap
 
 If you want something on this list, open an issue explaining:
