@@ -38,6 +38,8 @@ Files, modules, or concepts the agent looked at during this session.
 
 What was actually changed in this session.
 
+> **Security note:** Do not paste diffs containing credentials, API keys, tokens, or secrets into this table. Redact sensitive values before recording changes.
+
 | File | Change | Status |
 |---|---|---|
 | `[src/auth/config.py]` | `Added OAuth_ENVIRONMENT variable` | `Committed` |
