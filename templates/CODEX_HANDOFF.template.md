@@ -72,6 +72,8 @@ What was actually changed in this session.
 
 What should happen next, in order of priority.
 
+> **Guidance:** Next Steps are actions to take next. Context for Next Session is state to understand first: decisions already made, constraints to respect, and anything the next agent should know before changing files.
+
 1. `[Step 1: e.g. Create OAuth app in Google Console and add credentials to .env]`
 2. `[Step 2: e.g. Implement /oauth/login and /oauth/callback routes using Authlib]`
 3. `[Step 3: e.g. Write integration tests for OAuth flow]`
